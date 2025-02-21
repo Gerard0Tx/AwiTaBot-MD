@@ -1,7 +1,9 @@
 #  📌  • AwiTaBot-MD v**1.0.95**<br/>
 ------
 > [!NOTE]
-> **Como siempre, el código del bot seguirá siendo privado :3**<br/>
+> **Como siempre, el código del bot seguirá siendo privado :3**
+------
+> [!NOTE]
 > **Este bot lleva en desarrollo aproximadamente 3 años, pero aún contiene bugs por lo cual no es perfecto y aún es pequeño debido a que WhatsApp limitó la función de los botones y se están readaptando los códigos.**<br/>
 ------
 > [!IMPORTANT]
