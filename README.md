@@ -11,17 +11,17 @@
 
 ---
 
-> [!WARNING]
+> [!NOTE]
 > *Como siempre, el código del bot seguirá siendo **privado** :3*
 
 ---
 
-> [!NOTE]
+> [!IMPORTANT]
 > **Este bot lleva en desarrollo aproximadamente 3 años, pero aún contiene bugs, por lo cual no es perfecto y aún es pequeño debido a que WhatsApp limitó la función de los botones y se están readaptando los códigos.**
 
 ---
 
-> [!IMPORTANT]
+> [!CAUTION]
 > **No nos hacemos responsables del mal uso del `Bot Externo` si les manda a soporte, ya que no administramos su actividad fuera de nuestro alcance del bot oficial.**
 
 ---
@@ -69,6 +69,9 @@
 		<img src='https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp AwiTa Bot" />
 	</a>
 </div>
+
+> [!WARNING]
+> Estan estrictamente **prohibidas** las **`llamadas`** y **`videollamadas`** a la bot. Al igual que enviar mensaje al privado si esta activo el **`Anti-Privado`**, esto puede resultar en que se bloqueé al usuario.
 
 ---
 
