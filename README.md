@@ -35,16 +35,16 @@
 	<h2>Características de AwiTa</h2>
 </p>
 
-- [x] Administración de grupos. `﹝working 10%﹞`
-- [x] Antidelete, Antilink, Antiarabes, etc...`﹝working 0%﹞`
-- [x] Bienvenidas personalizadas.`﹝working 1%﹞`
-- [x] Chatbot (IA's).`﹝working 0%﹞`
+- [ ] Administración de grupos. `﹝working 10%﹞`
+- [ ] Antidelete, Antilink, Antiarabes, etc...`﹝working 0%﹞`
+- [ ] Bienvenidas personalizadas.`﹝working 1%﹞`
+- [ ] Chatbot (IA's).`﹝working 0%﹞`
 - [x] Crear sticker de image/video/gif/url. `﹝working 80%﹞`
 - [x] Descarga de música y video. `﹝working 25%﹞`
 - [ ] Otros en desarrollo... `﹝working 0%﹞`
 
 <p align="center">
-	<h2>Habilidades De Coding</h2>
+	<h2>Lenguajes</h2>
 </p>
 <div align="center">
 	<a href="#habilidades">
