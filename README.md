@@ -1,6 +1,9 @@
 <p align="center">
 	<h1>📌 • AwiTa-MD v1.0.149</h1>
 </p>
+<p align="center">
+<img src="https://qu.ax/CxVTw.jpg" alt="AwiTa" width="900"/>
+</p>
 <div align="center">
 	<a href="https://github.com/Gerard0Tx">
 		<h1><strong>
