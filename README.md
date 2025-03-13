@@ -1,5 +1,5 @@
 <p align="center">
-	<h1>📌 • AwiTaBot-MD v1.0.95</h1>
+	<h1>📌 • AwiTaBot-MD v1.0.149</h1>
 </p>
 <div align="center">
 	<a href="https://github.com/Gerard0Tx">
