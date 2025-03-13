@@ -70,13 +70,13 @@
 
 ---
 
-> [!CAUTION]
-> **No nos hacemos responsables del mal uso del `Bot Externo` si les manda a soporte, ya que no administramos su actividad fuera de nuestro alcance de la bot oficial.**
+> [!TIP]
+> **Para desvincularse de AwiTa, únicamente tienes que eliminar el vínculo en *`〘Dispositivos vinculados〙`* y listo.**
 
 ---
 
-> [!TIP]
-> **Para desvincularse de AwiTa, únicamente tienes que eliminar el vínculo en *`〘Dispositivos vinculados〙`* y listo.**
+> [!CAUTION]
+> **No nos hacemos responsables del mal uso del `Bot Externo` si les manda a soporte, ya que no administramos su actividad fuera de nuestro alcance de la bot oficial.**
 
 ---
 
