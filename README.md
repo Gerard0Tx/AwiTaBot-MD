@@ -12,7 +12,7 @@
 ---
 
 > [!NOTE]
-> *Como siempre, el código del bot seguirá siendo **privado** :3*
+> *Como siempre, el código de la bot seguirá siendo **privado** :3*
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 > [!TIP]
-> **Para desvincularse del Bot, únicamente tienes que eliminar el vínculo en *`[Dispositivos vinculados]`* y listo.**
+> **Para desvincularse del Bot, únicamente tienes que eliminar el vínculo en *`〘Dispositivos vinculados〙`* y listo.**
 
 ---
 
