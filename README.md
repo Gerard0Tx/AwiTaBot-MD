@@ -44,7 +44,7 @@
 - [ ] Otros en desarrollo... `﹝working 0%﹞`
 
 <p align="center">
-	<h2>Habilidades</h2>
+	<h2>Habilidades De Coding</h2>
 </p>
 <div align="center">
 	<a href="#habilidades">
@@ -53,7 +53,7 @@
 </div>
 
 <p align="center">
-	<h2>Contacto Owner</h2>
+	<h2>Contacto</h2>
 </p>
 <div align="center">
 	<a href="https://wa.me/+5218311584933">
