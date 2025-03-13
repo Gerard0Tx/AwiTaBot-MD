@@ -25,16 +25,6 @@
 
 ---
 
-> [!CAUTION]
-> **No nos hacemos responsables del mal uso del `Bot Externo` si les manda a soporte, ya que no administramos su actividad fuera de nuestro alcance de la bot oficial.**
-
----
-
-> [!TIP]
-> **Para desvincularse de AwiTa, únicamente tienes que eliminar el vínculo en *`〘Dispositivos vinculados〙`* y listo.**
-
----
-
 <p align="center">
 	<h2>Características de AwiTa</h2>
 </p>
@@ -77,6 +67,16 @@
 > [!WARNING]
 > Estan estrictamente **prohibidas** las **`llamadas`** y **`videollamadas`** a la bot.
 > Al igual que enviar mensaje al privado estando activo el **`Anti-Privado`**, esto puede resultar en que se bloqueé al usuario.
+
+---
+
+> [!CAUTION]
+> **No nos hacemos responsables del mal uso del `Bot Externo` si les manda a soporte, ya que no administramos su actividad fuera de nuestro alcance de la bot oficial.**
+
+---
+
+> [!TIP]
+> **Para desvincularse de AwiTa, únicamente tienes que eliminar el vínculo en *`〘Dispositivos vinculados〙`* y listo.**
 
 ---
 
