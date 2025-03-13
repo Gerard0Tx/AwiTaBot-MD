@@ -31,7 +31,7 @@
 ---
 
 > [!TIP]
-> **Para desvincularse del Bot, únicamente tienes que eliminar el vínculo en *`〘Dispositivos vinculados〙`* y listo.**
+> **Para desvincularse de AwiTa, únicamente tienes que eliminar el vínculo en *`〘Dispositivos vinculados〙`* y listo.**
 
 ---
 
@@ -39,9 +39,9 @@
 	<h2>Características de AwiTa</h2>
 </p>
 
-- [ ] Administración de grupos. `﹝working 10%﹞`
-- [ ] Antidelete, Antilink, Antiarabes, etc...`﹝working 0%﹞`
-- [ ] Bienvenidas personalizadas.`﹝working 1%﹞`
+- [ ] Administración de grupos. *`﹝working 10%﹞`*
+- [ ] Antidelete, Antilink, Antiarabes, etc... *`﹝working 0%﹞`*
+- [ ] Bienvenidas personalizadas.*`﹝working 1%﹞`
 - [ ] Chatbot (IA's).`﹝working 0%﹞`
 - [x] Crear sticker de image/video/gif/url. `﹝working 80%﹞`
 - [x] Descarga de música y video. `﹝working 25%﹞`
