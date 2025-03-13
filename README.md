@@ -17,12 +17,12 @@
 ---
 
 > [!IMPORTANT]
-> **Este bot lleva en desarrollo aproximadamente 3 años, pero aún contiene bugs, por lo cual no es perfecto y aún es pequeño debido a que WhatsApp limitó la función de los botones y se están readaptando los códigos.**
+> **Este bot lleva en desarrollo aproximadamente 3 años, pero aún contiene bugs, por lo cual no es perfecto y aún es pequeño debido a que WhatsApp limitó la función de los botones. (Se están readaptando los códigos...)**
 
 ---
 
 > [!CAUTION]
-> **No nos hacemos responsables del mal uso del `Bot Externo` si les manda a soporte, ya que no administramos su actividad fuera de nuestro alcance del bot oficial.**
+> **No nos hacemos responsables del mal uso del `Bot Externo` si les manda a soporte, ya que no administramos su actividad fuera de nuestro alcance de la bot oficial.**
 
 ---
 
