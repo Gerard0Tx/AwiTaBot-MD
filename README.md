@@ -71,7 +71,8 @@
 </div>
 
 > [!WARNING]
-> Estan estrictamente **prohibidas** las **`llamadas`** y **`videollamadas`** a la bot. Al igual que enviar mensaje al privado si esta activo el **`Anti-Privado`**, esto puede resultar en que se bloqueé al usuario.
+> Estan estrictamente **prohibidas** las **`llamadas`** y **`videollamadas`** a la bot.
+> Al igual que enviar mensaje al privado estando activo el **`Anti-Privado`**, esto puede resultar en que se bloqueé al usuario.
 
 ---
 
