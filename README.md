@@ -30,7 +30,7 @@
 </p>
 
 - [ ] Administración de grupos. **`﹝working 10%﹞`**
-- [ ] Antidelete, Antilink, Antiarabes, etc... ***`﹝working 0%﹞`**
+- [ ] Antidelete, Antilink, Antiarabes, etc... **`﹝working 0%﹞`**
 - [ ] Bienvenidas personalizadas. **`﹝working 1%﹞`**
 - [ ] Chatbot (IA's). **`﹝working 0%﹞`**
 - [x] Crear sticker de image/video/gif/url. **`﹝working 80%﹞`**
