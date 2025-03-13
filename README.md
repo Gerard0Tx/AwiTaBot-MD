@@ -12,12 +12,12 @@
 ---
 
 > [!NOTE]
-> *Como siempre, el código de la bot seguirá siendo **privado** :3*
+> *Como siempre, el código de AwiTa seguirá siendo **privado** :3*
 
 ---
 
 > [!IMPORTANT]
-> **Este bot lleva en desarrollo aproximadamente 3 años, pero aún contiene bugs, por lo cual no es perfecto y aún es pequeño debido a que WhatsApp limitó la función de los botones. (Se están readaptando los códigos...)**
+> **Esta bot lleva en desarrollo aproximadamente 3 años, pero aún contiene bugs, por lo cual no es perfecto. Aún es pequeño debido a que WhatsApp limitó la función de los botones. (Se están readaptando los códigos...)**
 
 ---
 
