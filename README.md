@@ -35,11 +35,11 @@
 	<h2>Características de AwiTa</h2>
 </p>
 
-- [x] Administración de grupos.
-- [x] Antidelete, Antilink, Antiarabes, etc...
-- [x] Bienvenidas personalizadas.
-- [x] Chatbot (IA's).
-- [x] Crear sticker de image/video/gif/url.
+- [x] Administración de grupos. ﹝working﹞
+- [x] Antidelete, Antilink, Antiarabes, etc... ﹝working﹞
+- [x] Bienvenidas personalizadas. ﹝working﹞
+- [x] Chatbot (IA's). ﹝working﹞
+- [x] Crear sticker de image/video/gif/url. ﹝working﹞
 - [x] Descarga de música y video.
 - [ ] Otros en desarrollo...
 
