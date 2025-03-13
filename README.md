@@ -4,7 +4,7 @@
 <div align="center">
 	<a href="https://github.com/Gerard0Tx">
 		<h1><strong>
-			<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=19000&size=14&pause=1000&width=435&lines=Bienvenidos+al+repositorio+oficial;AwiTa+estar%C3%A1+feliz+con+una+estrellita+%3A3;Cuack+Cuack++Motherfucker+%F0%9F%94%A5" alt="UwU" />
+			<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=19000&size=14&pause=1000&width=435&lines=Bienvenidos+al+repositorio+oficial;AwiTa+estar%C3%A1+feliz+con+una+estrellita+%3A3;Cuack+Cuack++Motherfucker+%F0%9F%94%A5" alt="Holi" />
 		</strong></h1>
 	</a>
 </div>
