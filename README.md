@@ -80,7 +80,7 @@
 
 ---
 
-ღ¸✻´ -ˏˋ⋆ *G R A C I A S  P O R  V I S I T A R ⋆ˊˎ- `✻.¸¸ღ
+ღ¸✻´ -ˏˋ⋆ *G R A C I A S  P O R  V E R ⋆ˊˎ- `✻.¸¸ღ
 
 <br />
 <div style='text-align: center'>
