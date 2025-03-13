@@ -31,7 +31,7 @@
 ---
 
 > [!TIP]
-> **Para desvincularse del Bot, únicamente tienes que eliminar el vínculo en *`〘ᴅɪsᴘᴏsɪᴛɪᴠᴏs ᴠɪɴᴄᴜʟᴀᴅᴏs〙`* y listo.**
+> **Para desvincularse del Bot, únicamente tienes que eliminar el vínculo en *`〘Dispositivos vinculados〙`* y listo.**
 
 ---
 
