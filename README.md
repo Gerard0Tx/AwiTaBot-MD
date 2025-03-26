@@ -32,8 +32,8 @@
 - [ ] Administración de grupos. **`﹝working 0%﹞`**
 - [ ] Antidelete, Antilink, Antiarabes, etc... **`﹝working 0%﹞`**
 - [ ] Bienvenidas personalizadas. **`﹝working 60%﹞`**
-- [ ] Chatbot (IA's). **`﹝working 0%﹞`**
-- [x] Crear sticker de image/video/gif/url. **`﹝working 80%﹞`**
+- [ ] Chatbot (IA's). **`﹝working 30%﹞`**
+- [x] Crear sticker de image/video/gif/url. **`﹝working 0%﹞`**
 - [x] Descarga de música y video. **`﹝working 25%﹞`**
 - [ ] Otros en desarrollo... **`﹝working 0%﹞`**
 
