@@ -31,11 +31,11 @@
 
 - [ ] Administración de grupos. **`﹝working 0%﹞`**
 - [ ] Antidelete, Antilink, Antiarabes, etc... **`﹝working 0%﹞`**
-- [x] Bienvenidas personalizadas. **`﹝working 60%﹞`**
-- [ ] Chatbot (IA's). **`﹝working 30%﹞`**
-- [ ] Crear sticker de image/video/gif/url. **`﹝working 0%﹞`**
-- [x] Descarga de música y video. **`﹝working 25%﹞`**
-- [ ] Otros en desarrollo... **`﹝working 0%﹞`**
+- [x] Bienvenidas personalizadas. **`﹝working 65%﹞`**
+- [ ] Chatbot (IA's). **`﹝working 90%﹞`**
+- [ ] Crear sticker de image/video/gif/url. **`﹝working 98%﹞`**
+- [x] Descarga de música y video. **`﹝working 95%﹞`**
+- [ ] Otros en desarrollo... **`﹝working 10%﹞`**
 
 <p align="center">
 	<h2>Lenguajes</h2>
