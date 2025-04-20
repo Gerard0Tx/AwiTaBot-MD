@@ -51,7 +51,7 @@
 </p>
 <div align="center">
 	<a href="https://wa.me/+5218311584933">
-		<img src='https://img.shields.io/badge/🜲_ᵖᵃᵗᵒ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp Pato" />
+		<img src='https://img.shields.io/badge/🜲_ᵖᵃᵗᵒ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp de Pato" />
 	</a>
 </div>
 
