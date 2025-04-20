@@ -2,7 +2,7 @@
 <img src="https://qu.ax/CxVTw.jpg" alt="AwiTa" width="900"/>
 </p>
 <p align="center">
-	<h1>📌 • AwiTa-MD v1.0.149</h1>
+	<h1>📌 • AwiTa-MD v1.1.74</h1>
 </p>
 
 <div align="center">
