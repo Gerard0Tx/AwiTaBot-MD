@@ -60,7 +60,7 @@
 </p>
 <div align="center">
 	<a href='https://Wa.me/+5215663746621'>
-		<img src='https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp AwiTa Bot" />
+		<img src='https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp de AwiTa-Bot" />
 	</a>
 </div>
 
