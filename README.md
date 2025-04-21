@@ -26,8 +26,7 @@
 
 <details>
 	<summary><b>🔖 • Información importante</b></summary>
-	
-> [!WARNING]
+
 > **Esta bot no está afiliada de ninguna manera con WhatsApp Inc.**
 > WhatsApp es una marca registrada de WhatsApp LLC.
 > Esta bot es un proyecto de desarrollo independiente y no tiene ninguna relación oficial con la compañía.
