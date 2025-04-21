@@ -25,6 +25,14 @@
 
 ---
 
+<details>
+ <summary><b> ➮ Info • Bot</b></summary>
+
+* Esta bot **no está afiliada de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
+</details>
+
+---
+
 <p align="center">
 	<h2>Características de AwiTa</h2>
 </p>
