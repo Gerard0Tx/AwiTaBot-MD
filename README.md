@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://qu.ax/CxVTw.jpg" alt="AwiTa" width="900"/>
+	<img src="https://qu.ax/CxVTw.jpg" alt="AwiTa" width="900" />
 </p>
 
 <h1 align="center">📌 • AwiTa-MD v1.1.74</h1>
 
 <div align="center">
-  <a href="https://github.com/Gerard0Tx">
-    <strong>
-      <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=19000&size=14&pause=1000&width=435&lines=Bienvenidos+al+repositorio+oficial;AwiTa+estar%C3%A1+feliz+con+una+estrellita+%3A3;Cuack+Cuack++Motherfucker+%F0%9F%94%A5" alt="Holi" />
-    </strong>
-  </a>
+	<a href="https://github.com/Gerard0Tx">
+		<strong>
+			<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=19000&size=14&pause=1000&width=435&lines=Bienvenidos+al+repositorio+oficial;AwiTa+estar%C3%A1+feliz+con+una+estrellita+%3A3;Cuack+Cuack++Motherfucker+%F0%9F%94%A5" alt="Holi" />
+		</strong>
+	</a>
 </div>
 
 ---
@@ -25,11 +25,11 @@
 ---
 
 <details>
-  <summary><b>➮ Info • Bot</b></summary>
+	<summary><b>➮ Info • Bot</b></summary>
 
-  **Esta bot no está afiliada de ninguna manera con WhatsApp Inc.**  
-  WhatsApp es una marca registrada de WhatsApp LLC.  
-  Este bot es un proyecto de desarrollo independiente y no tiene ninguna relación oficial con la compañía.
+	**Esta bot no está afiliada de ninguna manera con WhatsApp Inc.**
+	WhatsApp es una marca registrada de WhatsApp LLC.
+	Este bot es un proyecto de desarrollo independiente y no tiene ninguna relación oficial con la compañía.
 </details>
 
 ---
@@ -46,23 +46,23 @@
 
 <h2 align="center">Lenguajes</h2>
 <div align="center">
-  <a href="#habilidades">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" alt="Habilidades">
-  </a>
+	<a href="#habilidades">
+		<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" alt="Habilidades">
+	</a>
 </div>
 
 <h2 align="center">Contacto</h2>
 <div align="center">
-  <a href="https://wa.me/+5218311584933">
-    <img src='https://img.shields.io/badge/🜲_ᵖᵃᵗᵒ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp de Pato" />
-  </a>
+	<a href="https://wa.me/+5218311584933">
+		<img src='https://img.shields.io/badge/🜲_ᵖᵃᵗᵒ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp de Pato" />
+	</a>
 </div>
 
 <h3 align="center">Bot Oficial</h3>
 <div align="center">
-  <a href='https://Wa.me/+5215663746621'>
-    <img src='https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp de AwiTa-Bot" />
-  </a>
+	<a href='https://Wa.me/+5215663746621'>
+		<img src='https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt="WhatsApp de AwiTa-Bot" />
+	</a>
 </div>
 
 > [!WARNING]
@@ -85,6 +85,6 @@
 
 <br />
 <div style='text-align: center'>
-  &copy; Gerard0Tx | Copyright: 2021 - 2027
-  <a href="https://github.com/Gerard0Tx" target="_blank">Visitar Perfil.</a>
+	&copy; Gerard0Tx | Copyright: 2021 - 2027
+	<a href="https://github.com/Gerard0Tx" target="_blank">Visitar Perfil.</a>
 </div>
