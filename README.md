@@ -37,13 +37,13 @@
 
 <h2 align="center">Características de AwiTa</h2>
 
-- [ ] Administración de grupos. **`﹝working 0%﹞`**
-- [ ] Antidelete, Antilink, Antiarabes, etc... **`﹝working 0%﹞`**
-- [x] Bienvenidas personalizadas. **`﹝working 65%﹞`**
-- [ ] Chatbot (IA's). **`﹝working 90%﹞`**
-- [ ] Crear sticker de image/video/gif/url. **`﹝working 98%﹞`**
-- [x] Descarga de música y video. **`﹝working 95%﹞`**
-- [ ] Otros en desarrollo... **`﹝working 10%﹞`**
+- [ ] Administración de grupos. **`﹝working 75%﹞`**
+- [ ] Antilink, Antiarabes, etc... **`﹝working 75%﹞`**
+- [x] Bienvenidas personalizadas. **`﹝working 95%﹞`**
+- [ ] Chatbot (IA's). **`﹝working 99%﹞`**
+- [ ] Crear sticker de image/video/gif/url. **`﹝working 99%﹞`**
+- [x] Descarga de música y video. **`﹝working 90%﹞`**
+- [ ] Otros en desarrollo... **`﹝working 29%﹞`**
 
 <h2 align="center">Lenguajes</h2>
 <div align="center">
