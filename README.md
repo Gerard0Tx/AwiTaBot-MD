@@ -60,7 +60,7 @@
 | Tipo | Contacto |
 |------|----------|
 | Creador | [![WhatsApp](https://img.shields.io/badge/🜲_ᵖᵃᵗᵒ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5218311584933) |
-| Bot oficial | [![WhatsApp](https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5215663746621) |
+| Bot oficial | [![WhatsApp](https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://qu.ax/Hyvl0) |
 
 ---
 
