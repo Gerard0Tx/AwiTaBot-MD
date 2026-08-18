@@ -40,7 +40,7 @@
 | Funcionalidad | Estado | Progreso |
 | :--- | :---: | :---: |
 | **Administración de grupos** | En progreso | `████████░░` 85% |
-| **Antilink / Antiárabes** | Estable | `█████████░` 92% |
+| **Antilink / Extranjero** | Estable | `█████████░` 92% |
 | **Bienvenidas personalizadas** | Estable | `█████████░` 95% |
 | **ChatBot (IA)** | Estable | `█████████░` 97% |
 | **Stickers (img/video/gif/url)** | Estable | `█████████░` 99% |
