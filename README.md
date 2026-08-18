@@ -3,16 +3,16 @@
 
 <p align="center">
   <a href="https://github.com/Gerard0Tx/AwiTa-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/Gerard0Tx/AwiTaBot-MD?style=for-the-badge&color=FFD700&logo=github&label=Stars" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/Gerard0Tx/AwiTa-MD?style=for-the-badge&color=FFD700&logo=github&label=Stars" alt="Stars"/>
   </a>
   <a href="https://github.com/Gerard0Tx/AwiTa-MD/network/members">
-    <img src="https://img.shields.io/github/forks/Gerard0Tx/AwiTaBot-MD?style=for-the-badge&color=00FF88&logo=github&label=Forks" alt="Forks"/>
+    <img src="https://img.shields.io/github/forks/Gerard0Tx/AwiTa-MD?style=for-the-badge&color=00FF88&logo=github&label=Forks" alt="Forks"/>
   </a>
   <a href="https://github.com/Gerard0Tx/AwiTa-MD/commits/main">
-    <img src="https://img.shields.io/github/last-commit/Gerard0Tx/AwiTaBot-MD?style=for-the-badge&color=FF6B6B&logo=github&label=Last%20Commit" alt="Last Commit"/>
+    <img src="https://img.shields.io/github/last-commit/Gerard0Tx/AwiTa-MD?style=for-the-badge&color=FF6B6B&logo=github&label=Last%20Commit" alt="Last Commit"/>
   </a>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF88&width=450&lines=Bienvenidxs+al+repositorio+oficial;AwiTa+es+feliz+con+una+estrellita+%F0%9F%8C%9F;Cuack+Cuack+Bot+%F0%9F%94%A5" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF88&width=450&lines=AwiTa-MD+v1.2.451;Introvert+by+choice,+observer+by+default;Built+since+2021" alt="Typing animation" />
 </p>
 
 <p align="center">
