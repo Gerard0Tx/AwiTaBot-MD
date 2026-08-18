@@ -53,7 +53,10 @@
 ## Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,github,react,&theme=dark" alt="Stack tecnológico" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,mongodb,html,css,tailwind,react&theme=dark" alt="Stack" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,figma,vscode,postman,ps&theme=dark" alt="Tools" />
 </p>
 
 ---
