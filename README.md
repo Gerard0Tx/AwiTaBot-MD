@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://qu.ax/CxVTw.jpg" alt="AwiTa" width="300" style="border-radius: 20px; box-shadow: 0 8px 30px rgba(0,255,136,0.3);" />
-</p>
 
-<h1 align="center">🦆 AwiTa-MD <code>v1.2.441</code></h1>
+<h1 align="center">AwiTa-MD <code>v1.2.451</code></h1>
 
 <p align="center">
   <a href="https://github.com/Gerard0Tx/AwiTa-MD/stargazers">
@@ -19,50 +16,49 @@
 </p>
 
 <p align="center">
-  <a href="#-acerca-de"><b>📌 Acerca de</b></a> •
-  <a href="#-características"><b>⚡ Características</b></a> •
-  <a href="#-tecnologías"><b>🛠️ Tecnologías</b></a> •
-  <a href="#-advertencias-importantes"><b>⚠️ Advertencias</b></a> •
-  <a href="#-contacto-y-soporte"><b>📞 Contacto</b></a>
+  <a href="#-acerca-de"><b>Acerca de</b></a> •
+  <a href="#-características"><b>Características</b></a> •
+  <a href="#-tecnologías"><b>Tecnologías</b></a> •
+  <a href="#-advertencias-importantes"><b>Advertencias</b></a> •
+  <a href="#-contacto-y-soporte"><b>Contacto</b></a>
 </p>
 
 ---
 
-## 📌 Acerca de
+## Acerca de
 
 > [!NOTE]
 > **El código de AwiTa seguirá siendo privado** > Pero puedes usar la versión pública sin ningún problema.
 
 > [!IMPORTANT]
-> **Proyecto en desarrollo constante** > Llevo 5 años en desarrollo, todavía tengo detalles por pulir y bugs menores. Debido a los cambios recientes de WhatsApp en los botones, los comandos se están readaptando para un mejor funcionamiento.
+> **Proyecto en desarrollo constante** > Llevo 6 años en desarrollo, todavía tengo detalles por pulir y bugs menores. Debido a los cambios recientes de WhatsApp en los Interactivos, los comandos se están readaptando para un mejor funcionamiento.
 
 ---
 
-## ⚡ Características
+## Características
 
 | Funcionalidad | Estado | Progreso |
 | :--- | :---: | :---: |
-| 👥 **Administración de grupos** | 🚧 En progreso | `████████░░` 85% |
-| 🔗 **Antilink / Antiárabes** | ✅ Estable | `█████████░` 92% |
-| 🎉 **Bienvenidas personalizadas** | ✅ Estable | `█████████░` 95% |
-| 🤖 **ChatBot (IA)** | ✅ Estable | `█████████░` 99% |
-| 🎭 **Stickers (img/video/gif/url)** | ✅ Estable | `█████████░` 99% |
-| 🎵 **Descarga de música y video** | ✅ Estable | `████████░░` 92% |
-| 🧩 **Otros comandos** | ⚠️ Experimental | `████░░░░░░` 39% |
+| **Administración de grupos** | En progreso | `████████░░` 85% |
+| **Antilink / Antiárabes** | Estable | `█████████░` 92% |
+| **Bienvenidas personalizadas** | Estable | `█████████░` 95% |
+| **ChatBot (IA)** | Estable | `█████████░` 97% |
+| **Stickers (img/video/gif/url)** | Estable | `█████████░` 99% |
+| **Descarga de música y video** | Estable | `█████████░` 96% |
+| **Otros comandos** | Experimental | `████░░░░░░` 39% |
 
-> 💡 *Referencias de estado: ✅ Estable • 🚧 En progreso • ⚠️ Experimental*
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,github&theme=dark" alt="Stack tecnológico" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,github,react,&theme=dark" alt="Stack tecnológico" />
 </p>
 
 ---
 
-## ⚠️ Advertencias importantes
+## Advertencias importantes
 
 > [!WARNING]
 > **Restricciones del sistema:**
@@ -78,17 +74,17 @@
 
 ---
 
-## 📞 Contacto y Soporte
+## Contacto y Soporte
 
 | Rol | Enlace de contacto |
 | :--- | :--- |
-| 👨‍💻 **Creador** | [![WhatsApp](https://img.shields.io/badge/🜲_Pato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5218311584933) |
-| 🤖 **Bot Oficial** | [![WhatsApp](https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://qu.ax/Hyvl0) |
+| **Creador** | [![WhatsApp](https://img.shields.io/badge/🜲_Gerardo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5218311584933) |
+| **Bot Oficial** | [![WhatsApp](https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://qu.ax/Hyvl0) |
 
 ---
 
 <details>
-<summary><b>📜 Información legal (Clic para expandir)</b></summary>
+<summary><b>Información legal (Clic para expandir)</b></summary>
 
 > **Nota de deslinde:** > AwiTa-MD no está afiliado, asociado, autorizado ni respaldado oficialmente por WhatsApp Inc. o Meta Platforms, Inc. WhatsApp es una marca registrada de WhatsApp LLC. Este es un proyecto independiente desarrollado con fines recreativos y de automatización.
 
@@ -97,7 +93,7 @@
 ---
 
 <p align="center">
-  <i>✨ Gracias por visitar el proyecto ✨</i>
+  <i>Gracias por visitar el proyecto.</i>
   <br><br>
   <a href="#-awita-md-v11142-alfa">
     <img src="https://img.shields.io/badge/↑_Volver_arriba_↑-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Volver arriba"/>
