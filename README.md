@@ -82,7 +82,7 @@
 | Rol | Enlace de contacto |
 | :--- | :--- |
 | **Creador** | [![WhatsApp](https://img.shields.io/badge/🜲_Gerardo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5218311584933) |
-| **Bot Oficial** | [![WhatsApp](https://img.shields.io/badge/AwiTaBot--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://qu.ax/Hyvl0) |
+| **Bot Oficial** | [![WhatsApp](https://img.shields.io/badge/AwiTa--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://awitalive.unaux.com/#contact) |
 
 ---
 
