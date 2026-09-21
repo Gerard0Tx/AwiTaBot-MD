@@ -1,5 +1,5 @@
 
-<h1 align="center">AwiTa-MD <code>v1.2.451</code></h1>
+<h1 align="center">AwiTa-MD <code>v1.2.462</code></h1>
 
 <p align="center">
   <a href="https://github.com/Gerard0Tx/AwiTaBot-MD/stargazers">
@@ -28,10 +28,10 @@
 ## Acerca de
 
 > [!NOTE]
-> **El código de AwiTa seguirá siendo privado** > Pero puedes usar la versión pública sin ningún problema.
+> **El código de AwiTa es proprietary software (privado)** > Pero puedes usar la versión pública sin ningún problema en su grupo oficial.
 
 > [!IMPORTANT]
-> **Proyecto en desarrollo constante** > Llevo 6 años en desarrollo, todavía tengo detalles por pulir y bugs menores. Debido a los cambios recientes de WhatsApp en los Interactivos, los comandos se están readaptando para un mejor funcionamiento.
+> **Proyecto en desarrollo constante** > Llevo 6 años en desarrollo, todavía tengo detalles por pulir y bugs menores. El funcionamiento depende totalmente de mis actualizaciones constantes.
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Funcionalidad | Estado | Progreso |
 | :--- | :---: | :---: |
-| **Administración de grupos** | En progreso | `████████░░` 85% |
-| **Antilink / Extranjero** | Estable | `█████████░` 92% |
+| **Administración de grupos** | Estable | `█████████░` 99% |
+| **Antilink / Extranjero** | Estable | `█████████░` 97% |
 | **Bienvenidas personalizadas** | Estable | `█████████░` 95% |
 | **ChatBot (IA)** | Estable | `█████████░` 97% |
 | **Stickers (img/video/gif/url)** | Estable | `█████████░` 99% |
 | **Descarga de música y video** | Estable | `█████████░` 96% |
-| **Otros comandos** | Experimental | `████░░░░░░` 39% |
+| **Otros comandos** | Experimental | `█████░░░░░` 45% |
 
 
 ---
@@ -66,14 +66,11 @@
 > [!WARNING]
 > **Restricciones del sistema:**
 > - No realizar llamadas ni videollamadas al bot.
-> - Evitar mensajes al privado si el modo *Anti-Privado* está activo.
-> *El incumplimiento de esto puede causar un bloqueo automático por parte del sistema.*
-
-> [!TIP]
-> **¿Cómo desvincular el bot?** > Ve a **Ajustes → Dispositivos vinculados** dentro de tu aplicación de WhatsApp y elimina la sesión activa.
+> - Evitar mensajes al privado. (te ignorará)
+> *El incumplimiento de esto puede causar un bloqueo automático por parte del sistema en ocasiones.*
 
 > [!CAUTION]
-> **Responsabilidad de uso:** > No nos hacemos responsables por el mal uso de copias externas o *forks* fuera de nuestro alcance oficial. El soporte técnico solo aplica para la versión oficial.
+> **Responsabilidad de uso:** > No nos hacemos responsables por el mal uso de el bot que se llegue a dar por parte de los usuarios. El soporte técnico solo aplica para la versión oficial y única. 
 
 ---
 
@@ -82,7 +79,7 @@
 | Rol | Enlace de contacto |
 | :--- | :--- |
 | **Creador** | [![WhatsApp](https://img.shields.io/badge/🜲_Gerardo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5218311584933) |
-| **Web Oficial** | [![Website](https://img.shields.io/badge/AwiTa--MD-111111?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://awitalive.unaux.com/#contact) |
+| **Web Oficial** | [![Website](https://img.shields.io/badge/AwiTa--MD-111111?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.awitalive.kdns.fr/#contact) |
 
 ---
 
